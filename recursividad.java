@@ -1,5 +1,5 @@
 
-//este ejercicio trata sobre la manera de reescribir una potenci en base 2 
+//este ejercicio trata sobre la manera de reescribir una potenci en base 2 a
 public class Potencia
 {
    public String mostrarNotacion(int k){
