@@ -1,4 +1,4 @@
-// todos los ejercicios de aca los hago correr en BLUEJ
+// a todos los ejercicios de aca los hago correr en BLUEJ
 
 public class Potencia
 {

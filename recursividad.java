@@ -25,3 +25,14 @@ public class Burbuja
         return metodo(numeros, pos+1,hayCambio);
     }
 }
+
+
+public class triangulo{
+    public int cantRombo(int n) {
+        if (n <= 1) {
+            return 0; 
+        } else {
+            return rombits(n - 1) + (int)Math.pow(3, n - 1);
+        }
+    }
+}
