@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=NodoDE
+comment1.params=
+comment1.target=NodoDE()
+comment2.params=valor
+comment2.target=NodoDE(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getDato()
+comment4.params=
+comment4.target=NodoDE\ getSig()
+comment5.params=
+comment5.target=NodoDE\ getAnt()
+comment6.params=valor
+comment6.target=void\ setDato(java.lang.Object)
+comment7.params=otro
+comment7.target=void\ setSig(NodoDE)
+comment8.params=otro
+comment8.target=void\ setAnt(NodoDE)
+comment9.params=
+comment9.target=boolean\ vacio()
+numComments=10

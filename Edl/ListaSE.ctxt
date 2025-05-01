@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ListaSE
+comment1.params=
+comment1.target=ListaSE()
+comment2.params=pos
+comment2.target=java.lang.Object\ get(int)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=valor
+comment4.target=void\ add(java.lang.Object)
+comment5.params=pos
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=dato
+comment6.target=boolean\ remove(java.lang.Object)
+comment7.params=dato
+comment7.target=int\ indexOf(java.lang.Object)
+numComments=8
